@@ -1,0 +1,16 @@
+# Foundry build output
+out/
+cache/
+broadcast/
+
+# Local environment and credentials
+.env
+.env.*
+!.env.example
+.password
+*.pem
+*.key
+*.keystore
+
+# Operating system files
+.DS_Store
